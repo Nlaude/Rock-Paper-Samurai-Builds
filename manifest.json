@@ -1,5 +1,5 @@
 {
-    "version":  "0.4.0-20261119.2321 (3cb556e)",
+    "version":  "0.4.0-20261119.2334 (39e6b3a)",
     "launcher":  {
                      "path":  "RockPaperSamuraiLauncher.exe",
                      "sha256":  "ee26be7df4968e09b189a4647d61eb49686e0a404caed727678fcd1d5ac9aef2",
@@ -8,7 +8,7 @@
     "files":  [
                   {
                       "path":  "build-version.txt",
-                      "sha256":  "acaac8cb564a020a50e4025cf85c226c276ab5d8d1198d0b60417eaae297fdaf",
+                      "sha256":  "309213f5ec47ddd1f3ce9117a8a4fae165d6551d9ed2cb9cc893023cd9be5398",
                       "size":  19
                   },
                   {
@@ -128,18 +128,18 @@
                   },
                   {
                       "path":  "RockPaperSamurai_Data/boot.config",
-                      "sha256":  "7124e07ba0684d359040a0fb1157fb56ec1b1c69c0287160cbb6cd3e77f3f144",
+                      "sha256":  "d30e71abb1eaa514100131b4ae1c5b2b4e76f47f2cb6998c18289c8eff39420a",
                       "size":  156
                   },
                   {
                       "path":  "RockPaperSamurai_Data/globalgamemanagers",
-                      "sha256":  "9853819141a56f213b7c03d68f5ea37e489bd19b213298503de479a86bb564bc",
-                      "size":  192180
+                      "sha256":  "3c99526b2dd76140ef38cf32da532eb70634ee9e78593a6e10d7f330049811ad",
+                      "size":  192708
                   },
                   {
                       "path":  "RockPaperSamurai_Data/globalgamemanagers.assets",
-                      "sha256":  "06ac57a51a58463a6d770d24ff13799365012841a7b7783d8a6ca685738eccd0",
-                      "size":  844736
+                      "sha256":  "b73527fec41998b3d0b08ed8435f86a9c23768621c6411c9a6813a816e9cc6a8",
+                      "size":  844848
                   },
                   {
                       "path":  "RockPaperSamurai_Data/globalgamemanagers.assets.resS",
@@ -148,13 +148,13 @@
                   },
                   {
                       "path":  "RockPaperSamurai_Data/level0",
-                      "sha256":  "4724c81ceec2720ab4f6664aaa01480dafc343fe83a9c546a71af34cc9be5fd2",
-                      "size":  97496
+                      "sha256":  "c49073cbbf459a2f0f7aee65ab30770210dc63c72a5c3628ea98ca6de2ed703a",
+                      "size":  99848
                   },
                   {
                       "path":  "RockPaperSamurai_Data/level1",
-                      "sha256":  "5a46977312b610fbab87dcb924389b7a2b6b9f319b908f9bcc4491c636570ef7",
-                      "size":  83240
+                      "sha256":  "94953ca3f2cc42d6e49846a6fab4314f9e70330f552f0d728964454ed3901342",
+                      "size":  83208
                   },
                   {
                       "path":  "RockPaperSamurai_Data/Managed/Mono.Security.dll",
@@ -173,8 +173,8 @@
                   },
                   {
                       "path":  "RockPaperSamurai_Data/Managed/RockPaperSamurai.dll",
-                      "sha256":  "18b94e7777aa6410efc321481b925461777a8979175cea2e85f853cff15b37a7",
-                      "size":  77312
+                      "sha256":  "c58001d5a538365da283899a2d319ee9268af57d43f59731f8a61645dc2d2d10",
+                      "size":  83456
                   },
                   {
                       "path":  "RockPaperSamurai_Data/Managed/System.ComponentModel.Composition.dll",
@@ -818,13 +818,13 @@
                   },
                   {
                       "path":  "RockPaperSamurai_Data/resources.assets",
-                      "sha256":  "31fd3565654890898b70e0e6b5b40f3f654b344dab9ca48b9a14505d8287ecba",
-                      "size":  362456
+                      "sha256":  "6ffde9dfa0602fbb9954082e0f03b64c87bc9148e7bede64de70ded91897f94c",
+                      "size":  370936
                   },
                   {
                       "path":  "RockPaperSamurai_Data/resources.assets.resS",
-                      "sha256":  "f12f30b4c1648273e460dab9f8ec974e616980f7a3027d54ac4ca0f19ba89cd3",
-                      "size":  7232
+                      "sha256":  "6103256c2c77df63dd8b973b9982b608f4d5b0cd5ee200d54a63d9ecf0de3270",
+                      "size":  967232
                   },
                   {
                       "path":  "RockPaperSamurai_Data/Resources/unity default resources",
@@ -848,23 +848,18 @@
                   },
                   {
                       "path":  "RockPaperSamurai_Data/sharedassets0.assets",
-                      "sha256":  "5cb914cb98e70c1358e7e5948b7375cfa93e8809fb921d78ffad0df35efa0f21",
-                      "size":  1673856
+                      "sha256":  "11814770c94828b65aca15f8f821b88b06790574b322eb86bd36f20dc04e62e6",
+                      "size":  1674752
                   },
                   {
                       "path":  "RockPaperSamurai_Data/sharedassets0.assets.resS",
-                      "sha256":  "696f0e081bd3f3dc5ab783d8a1005e182b3ae4af4f6e032691f098f993f6e2e1",
-                      "size":  529760
+                      "sha256":  "0040e5b0e367c84c4c01a0e84cae80cac5289a9b32a27d21b06631092b945dca",
+                      "size":  551616
                   },
                   {
                       "path":  "RockPaperSamurai_Data/sharedassets1.assets",
-                      "sha256":  "8d8900d2c45fc2d81cd48502e9a570b72898b52b8d7125ac46b5e9332a3715fd",
-                      "size":  2908
-                  },
-                  {
-                      "path":  "RockPaperSamurai_Data/sharedassets1.assets.resS",
-                      "sha256":  "d1bd9e548fceb8ea8273570990716a9c3188a51100b3bc98a05c96e80803e215",
-                      "size":  21856
+                      "sha256":  "16877902c38da7c05ee8ebe508d84bbacc9c1c2246d1fc095f8330462b7ad183",
+                      "size":  2053
                   },
                   {
                       "path":  "UnityCrashHandler64.exe",
